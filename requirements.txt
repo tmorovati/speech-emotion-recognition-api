@@ -2,3 +2,6 @@ torch
 transformers
 librosa
 soundfile
+fastapi
+uvicorn[standard]
+python-multipart
